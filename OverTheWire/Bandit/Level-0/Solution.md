@@ -10,7 +10,7 @@ Most operating systems come with SSH pre-installed. To begin, open your terminal
 The challenge provides a link to a WikiHow article under the *Helpful Reading Material* section. Visiting that page gives us the foundational steps to connect to a remote server via SSH:
 
 
-![wikihow_use-ssh.png](./wikihow_use-ssh.png)
+![wikihow_use-ssh.png](images/wikihow_use-ssh.png)
 
 From the challenge description, we are given the following connection details:
 
@@ -29,7 +29,7 @@ To connect to the server, we use the following command:
 ssh bandit0@bandit.labs.overthewire.org -p 2220 
 ```
 
-  ![somefingerprintingthing.png](./somefingerprintingthing.png)
+  ![ssh-bandit0.png](images/ssh-bandit0.png)
 When prompted with a security warning about the host authenticity, choose **Yes**. This is expected when connecting for the first time.
 
 Then enter the password: `bandit0`
@@ -56,4 +56,7 @@ cat readme
 This will print the flag on the screen. It also serves as the **password for the next level *(`bandit1`)*.
 
 ### 🏁Flag: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+
+---
+
 
