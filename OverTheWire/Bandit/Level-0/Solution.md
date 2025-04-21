@@ -10,7 +10,7 @@ Most operating systems come with SSH pre-installed. To begin, open your terminal
 The challenge provides a link to a WikiHow article under the *Helpful Reading Material* section. Visiting that page gives us the foundational steps to connect to a remote server via SSH:
 
 
-![wikihow_use-ssh.png](./wikihow_use-ssh.png)
+![wikihow_use-ssh.png](images/wikihow_use-ssh.png)
 
 From the challenge description, we are given the following connection details:
 
