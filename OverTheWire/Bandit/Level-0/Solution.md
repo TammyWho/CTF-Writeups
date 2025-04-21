@@ -29,7 +29,7 @@ To connect to the server, we use the following command:
 ssh bandit0@bandit.labs.overthewire.org -p 2220 
 ```
 
-  ![somefingerprintingthing.png](./somefingerprintingthing.png)
+  ![ssh-bandit0.png](images/ssh-bandit0.png)
 When prompted with a security warning about the host authenticity, choose **Yes**. This is expected when connecting for the first time.
 
 Then enter the password: `bandit0`
