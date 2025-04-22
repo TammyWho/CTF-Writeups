@@ -2,6 +2,7 @@
 
  This level is another beginner-friendly step meant to get us more comfortable with the Linux terminal. It introduces a small but important concept: filenames that start with a dash (-).
 
+--- 
 
 ### 🔧 Setup
 We already know the following challenge details:
@@ -10,11 +11,15 @@ We already know the following challenge details:
 - **Username:** bandit1
 - **Password:** ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
+---
+
 ### 🔑 Logging in via SSH
 - Using the above details we can connect to the machine with the following command
     ```bash
     sshpass -p "ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If" ssh bandit1@bandit.labs.overthewire.org -p2220
     ```
+
+---
 
 ### 🎯 Finding the Flag
 
@@ -36,4 +41,5 @@ Here’s what that means:
 
 It’s a small trick, but a useful one — especially when you start dealing with oddly-named files in the wild.
 Aaaand yep we get the flag/pass we need.
+
 ### 🏁 Flag: `263JGJPfgU6LtdEvgfWU1XP5yac29mFx`
