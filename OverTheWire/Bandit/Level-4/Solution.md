@@ -25,7 +25,7 @@ We already know the following challenge details:
 
 ### 🎯 Finding the Flag
 
-This was an interesting level as it had levels.
+This was an interesting level as it had layers.
 But the main theme was the `file` command
 
 - So the first command `ls` as always and we see a directory named *"inhere"*
