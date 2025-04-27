@@ -36,8 +36,8 @@ find . -type f -size 1033c
 ```
 
 Here,
-    * `f` stands for regular files 
-    * `1033c` stands for 1033 Bytes.
+    - `f` stands for regular files 
+    - `1033c` stands for 1033 Bytes.
 
 - After getting the file name we can simply copy it and paste it infront of the `cat` command and we should get the flag
 
