@@ -1,4 +1,4 @@
-# Bandit 8 -> 9
+# Bandit 9 -> 10
 
 Another good level. And i was stuck on it for the dumbest reason. I had logged into incorrect ssh session lol.
 
