@@ -1,4 +1,4 @@
-# Bandit 15 -> 16
+# Bandit 16 -> 17
 
 Now this level was a a CTF like level. We combine lot of our previous learned knowledge.That includes ssl encryption and sshkeys.
 
