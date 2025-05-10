@@ -1,4 +1,3 @@
-
 # Bandit 17 -> 18
 
 This was a nice level as it introduces us to the `diff` command.
