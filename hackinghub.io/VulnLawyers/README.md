@@ -1,0 +1,1 @@
+I am a beginner when it comes to web applications pentesting. Quite frankly it scares me. I dont code web apps so I naturally dont understand how they work most of the time. But im planning to learn that as I solve this challenge from hackinghub.io
