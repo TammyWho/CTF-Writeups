@@ -1,1 +1,2 @@
 I am a beginner when it comes to web applications pentesting. Quite frankly it scares me. I dont code web apps so I naturally dont understand how they work most of the time. But im planning to learn that as I solve this challenge from hackinghub.io
+**NOTE:** You might notice the domain name change a lot in the single challenge but thats only because I couldn't do the writeup and the solution in the single instance launched. Dont let it confuse you ! 
