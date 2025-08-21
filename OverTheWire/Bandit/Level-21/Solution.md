@@ -34,7 +34,5 @@ We already know the following challenge details:
   ```
 
 - and that should give us the flag.
-  ```
-  ```
 
 ### 🏁 Flag: `tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q`
