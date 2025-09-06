@@ -1,6 +1,6 @@
 # Bandit 21 -> 22
 
-This was a good level since I struggled with it myself. We are introduced to the concept of `unix jobs` in this level
+This level introduces the concept of cron jobs and how they can be utilized to access hidden information.
 
 --- 
 
